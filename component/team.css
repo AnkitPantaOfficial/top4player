@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Teko:wght@300;400;500;600&display=swap');
+
+
+.matchheadtohead {
+    position: absolute;
+    height: 200px;
+    width: 101.15%;
+    top: -190px;
+    left: 2.34%;
+    font-weight: 500;
+    display: inline-block;
+    -webkit-text-stroke: 4px #ffff;
+    color: transparent;
+   
+  }
+  .head1,
+  .tournamentlogo {
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+  }
+  .tournamentlogo  {
+    height: 250px;
+    width: 250px;
+    top: -1.89%;
+    right: 89.58%;
+    bottom: 26.14%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .head1 {
+    height: 24.44%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 75.56%;
+    font-size: 280px;
+    color: transparent;
+    font-family: 'Teko', sans-serif;
+  }
+  .all{
+    position: relative;
+top: -750px;
+  }
+  .team-1-icon {
+    position: relative;
+    top: 58px;
+    left: -21px;
+    width: 650px;
+    height: 650px;
+    object-fit: cover;
+    
+  }
+  .team-1-icon2 {
+    top: 96px;
+    left: -23px;
+    width: 650px;
+    height: 650px;
+    object-fit: cover;
+  }
+  .playerphoto1 {
+    position: relative;
+    height: 73.43%;
+    width: 32.76%;
+    top: 7.04%;
+    right: 67.24%;
+    bottom: 19.54%;
+    left: 0;
+    overflow: hidden;
+  }
+  .playername-text {
+    position: absolute;
+    top: 9px;
+    left: 25px;
+    font-weight: 500;
+  }
+  .bangadesh-1-icon {
+    position: absolute;
+    top: 6px;
+    left: 440px;
+    width: 86px;
+    height: 86px;
+    object-fit: cover;
+  }
+  .playername {
+    position: absolute;
+    top: 19px;
+    left: 19px;
+    background-color: blue;
+    width: 548px;
+    height: 97px;
+    overflow: hidden;
+  }
+  .teamlogo1 {
+    position: absolute;
+    top: -6px;
+    left: 585px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .playerdete,
+  .playerphoto11 {
+    position: absolute;
+    overflow: hidden;
+  }
+  .playerdete {
+    top: 868px;
+    left: 0;
+    background-color: lightgray;
+    width: 756px;
+    height: 136px;
+    clip-path: polygon(0% 0%, 6.5% 0%, 28.83% 0%, 78.16% 0%, 92.86% 0%, 100% 0%, 100% 8.25%, 96.98% 15.93%, 96.98% 86.16%, 100% 92.75%, 100% 100%, 0% 100%);
+
+  }
+  .teamphoto11 {
+    Position: absolute;
+    height: 96.43%;
+    width: 32.76%;
+    top: 30.04%;
+    right: -49.76%;
+    bottom: 19.54%;
+    left: 1289px;
+    overflow: hidden;
+    overflow: hidden;
+  }
+  .teamphoto1 {
+    position: relative;
+    top: 143px;
+  }
+  .teamlogo2 {
+    position: absolute;
+    top: 5px;
+    left: 449px;
+    width: 86px;
+    height: 86px;
+    object-fit: cover;
+  }
+  .playername1 {
+    position: absolute;
+    top: 19px;
+    left: 188px;
+    background-color: blue;
+    width: 548px;
+    height: 97px;
+    overflow: hidden;
+  }
+  .playername-text1 {
+    position: absolute;
+    top: 29px;
+    left: 219px;
+    font-weight: 500;
+  }
+  .a1nb-2-icon {
+    position: absolute;
+    top: -7px;
+    left: 17px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .playerdete1 {
+    position: absolute;
+    top: 869px;
+    left: 1164px;
+    background-color: lightgray;
+    width: 756px;
+    height: 136px;
+    overflow: hidden;
+    clip-path: polygon(0% 0%, 6.5% 0%, 28.83% 0%, 78.16% 0%, 92.86% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 92.75%, 3.05% 86.16%, 3.05% 15.93%, 0% 8.25%);
+
+    
+  }
+  .head-to-head {
+    position: absolute;
+    top: 9.66%;
+    left: 1.97%;
+    font-weight: 600;
+    font-family: 'Teko', sans-serif;
+    color: #fff;
+  }
+  .background-2-icon {
+    position: absolute;
+    top: 0;
+    left: -310px;
+    width: 1280px;
+    height: 720px;
+    object-fit: cover;
+    opacity: 0.3;
+  }
+  .matchinfo {
+    position: absolute;
+    top: -2px;
+    left: 0;
+    width: 659px;
+    height: 238px;
+    overflow: hidden;
+    font-size: 128px;
+  }
+  .match-1-erangle {
+        position: absolute;
+        top: 155px;
+        left: 132px;
+        right: 190px; /* Set the same value for left and right */
+        font-size: 36px;
+        font-weight: 500;
+        color: #e9d7a1;
+        font-family: 'Teko', sans-serif;
+        display: flex;
+        align-items: center; /* Center vertically */
+        justify-content: center; /* Center horizontally */
+        text-align: center; /* Additional: Center text within the container */
+        width: 392px;
+    }
+    
+
+  .elimination {
+    position: absolute;
+    top: 30px;
+    left: 168px;
+    font-weight: 500;
+    display: inline-block;
+    width: 319px;
+    height: 103px;
+    font-family: 'Teko', sans-serif;
+    color: #fff;
+  }
+  .elimination-wrapper {
+    position: absolute;
+    top: 239px;
+    left: 2px;
+    background-color: blue;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    box-sizing: border-box;
+    width: 655px;
+    height: 136px;
+    overflow: hidden;
+    
+  }
+  .contribution {
+    position: absolute;
+    top: 30px;
+    left: 168px;
+    font-weight: 500;
+    display: inline-block;
+    width: 319px;
+    height: 103px;
+    font-family: 'Teko', sans-serif;
+    color: #fff;
+    
+  }
+  .contribution-wrapper {
+    position: absolute;
+    top: 373px;
+    left: 2px;
+    background-color: #b062ff;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    box-sizing: border-box;
+    width: 655px;
+    height: 136px;
+    overflow: hidden;
+    
+  }
+  .kd,
+  .kd-wrapper {
+    position: absolute;
+  }
+  .kd {
+    top: 30px;
+    left: 168px;
+    font-weight: 500;
+    display: inline-block;
+    width: 319px;
+    height: 103px;
+    font-family: 'Teko', sans-serif;
+    color: #fff;
+  }
+  .kd-wrapper {
+    top: 506px;
+    left: 2px;
+    background-color: blue;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    box-sizing: border-box;
+    width: 655px;
+    height: 136px;
+    overflow: hidden;
+    
+  }
+  .ranking {
+    position: absolute;
+    top: 30px;
+    left: 168px;
+    font-weight: 500;
+    display: inline-block;
+    width: 319px;
+    height: 103px;
+    font-family: 'Teko', sans-serif;
+    color: #fff;
+  }
+  .ranking-wrapper {
+    position: absolute;
+    top: 639px;
+    left: 2px;
+    background-color: #b973ff;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    box-sizing: border-box;
+    width: 655px;
+    height: 136px;
+    overflow: hidden;
+ 
+  }
+  .div4,
+  .div55,
+  .div6,
+  .div7 {
+    position: absolute;
+    top: 24px;
+    left: 49px;
+    font-weight: 500;
+  }
+  .div55,
+  .div6,
+  .div7 {
+    top: 153px;
+    left: 50px;
+  }
+  .div6,
+  .div7 {
+    top: 290px;
+    left: 49px;
+  }
+  .div7 {
+    top: 420px;
+  }
+ 
+  .points11 {
+    position: absolute;
+    top: 239px;
+    width: 129px;
+    height: 538px;
+    font-size: 53px;
+  }
+  .points1 {
+    position: absolute;
+    top: 340px;
+    width: 129px;
+    height: 538px;
+    font-size: 53px;
+    overflow: hidden;
+    left: 641px;
+  }
+  
+  .points11 {
+    left: 1150px;
+    top: 340px;
+
+  }
+  .det,
+  .ph2h,
+  .points11 {
+    overflow: hidden;
+  }
+  .det {
+    position: relative;
+    top: 115px;
+    left: 629px;
+    background-color: #2b2b2b;
+    border: 3px solid black;
+    box-sizing: border-box;
+    width: 659px;
+    height: 779px;
+    text-align: center;
+    font-size: 50px;
+    clip-path: polygon(0% 0%, 6.5% 0%, 8.33% 2%, 90.41% 2%, 92.86% 0%, 100% 0%, 100% 13.75%, 100% 30.9%, 100% 95%, 100% 100%, 0% 100%);
+   
+  }
+  .ph2h {
+    width: 1920px;
+    height: 1080px;
+    
+  }
+  
